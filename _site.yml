@@ -1,0 +1,22 @@
+name: "Ballerz"
+output_dir: "docs"
+navbar:
+
+
+  title:  'BALLERZ_BANDEOKE'
+  left:
+  
+  
+  
+    - text: "SONGS"
+      href: SONGS.html
+    - text: "BAND"
+      href: BAND.html
+    - text: "VIDEOS"
+      href: VIDEOS.html
+    - text: "CONTACT"
+      href: CONTACT.html
+
+output:
+  html_document:
+    css: styles.css

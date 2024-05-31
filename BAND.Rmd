@@ -1,0 +1,19 @@
+---
+title: "The Band"
+---
+
+Guitar and assistant vocals
+
+Sean !
+![](images/Sean.jpg)
+
+Bass 
+
+Calum !
+![](images/Calum.jpg)
+
+
+Drums
+
+Hubert !
+![](images/Hubert.jpg)

@@ -1,0 +1,16 @@
+---
+title: "Videos"
+---
+
+Live video of the backing band and party time !
+
+<div style="text-align: center;">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/XN8gnZRGCXQ" frameborder="0" allowfullscreen></iframe>
+</div>
+
+
+Live video of backing band with karaoke participant !
+
+<div style="text-align: center;">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/PVdFHRXJe-g" frameborder="0" allowfullscreen></iframe>
+</div>
